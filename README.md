@@ -1,7 +1,7 @@
 # JavaSecureLoginEncDec
 
 An application made 100% in java, demonastrating among others,  knowledge about security mechanisms. (symmetric and asymmetric key encryption, integrity validation, etc) 
-
+Created during the 3rd year of my studies.
 
 The application has a pair of public and private key.
 Through the application , users can create an account. After creation, the application assigns to that user a specific space.
