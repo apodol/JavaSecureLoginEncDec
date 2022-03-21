@@ -11,10 +11,13 @@ If the actor is not the user that owns those files, the legimate user is notifie
 
 ---
 Login
+
 ![Login](https://user-images.githubusercontent.com/51244823/159293008-c18ab7af-edef-48f2-b4ac-4456e858f600.png)
 ---
 Register
+
 ![register](https://user-images.githubusercontent.com/51244823/159293073-a6b79147-dffc-490f-b384-7da313c87d16.png)
 ---
 Encrypt
+
 ![encrypt](https://user-images.githubusercontent.com/51244823/159293110-b3ceb270-479d-49c7-bd19-5e2d1731d4f8.png)
